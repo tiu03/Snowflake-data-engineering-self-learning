@@ -1,5 +1,8 @@
 # Snowflake-data-engineering-self-learning
-a clone repo of Introduction to Modern Data Engineering with Snowflake 
+> [!NOTE]  
+> **Personal Learning Repository**  
+> This repo is my personal workspace for practicing and implementing the [Snowflake Labs - Modern Data Engineering](https://github.com/Snowflake-Labs/modern-data-engineering-snowflake) project.
+
 
 ## Introduction to Modern Data Engineering with Snowflake
 
